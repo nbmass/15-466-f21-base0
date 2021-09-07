@@ -12,7 +12,7 @@ How To Play:
 
 The gameplay is exactly the same as Pong, the left paddle follows the mouse. The player scores when the ball hits the right wall and the oponent scores when the ball hits the left wall.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources:
 
 This game was built with [NEST](NEST.md).
 # game0
